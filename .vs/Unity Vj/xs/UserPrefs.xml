@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{61AFB9F3-6A06-964F-5787-1C9B3E378153}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scenes/Scene01/scripts/PostEffect.cs">
+    <Files>
+      <File FileName="Assets/Scenes/Scene01/scripts/PostEffect.cs" Line="18" Column="9" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="6e0cb635-eaac-4392-b43a-5e29eb9ae87b" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
