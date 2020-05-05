@@ -1,12 +1,16 @@
 ﻿<Properties StartupConfiguration="{61AFB9F3-6A06-964F-5787-1C9B3E378153}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scenes/Scene01/scripts/PostEffect.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scenes/Common/Shaders/ImageEffects/Through.shader">
     <Files>
-      <File FileName="Assets/Scenes/Scene01/scripts/PostEffect.cs" Line="18" Column="9" />
+      <File FileName="Assets/Scenes/Common/Shaders/ImageEffects/Glitch.shader" Line="61" Column="1" />
+      <File FileName="Assets/Scenes/Common/Shaders/ImageEffects/Distortion.shader" />
+      <File FileName="Assets/Scenes/Common/cameraEffect.cs" Line="110" Column="17" />
+      <File FileName="Assets/Scenes/Common/Scripts/BasePostEffect.cs" />
+      <File FileName="Assets/Scenes/Common/Shaders/ImageEffects/Through.shader" Line="47" Column="14" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="6e0cb635-eaac-4392-b43a-5e29eb9ae87b" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="436db014-d4f2-462d-9576-25a45f31bd07" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
